@@ -1,4 +1,5 @@
 
+//Jorge Sánchez López
 import express from "express";
 import { connectMongoDB } from "./mongo";
 import routerPersonas from "./routes";
